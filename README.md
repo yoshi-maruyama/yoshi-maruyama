@@ -9,6 +9,8 @@
 ### 🏆GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoshi-maruyama&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshi-maruyama&layout=compact" />
+
 <!--
 **yoshi-maruyama/yoshi-maruyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
